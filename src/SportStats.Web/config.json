@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SportStats.Web"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-SportStats.Web-f95c50ed-fbd3-4f37-888b-62242a01581c;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
